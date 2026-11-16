@@ -1,0 +1,24 @@
+{
+  "classes": [
+    "Closed",
+    "Open",
+    "no_yawn",
+    "yawn"
+  ],
+  "stage_map": {
+    "Open": 0,
+    "no_yawn": 0,
+    "yawn": 1,
+    "Closed": 2
+  },
+  "stage_names": {
+    "0": "0 - Alert",
+    "1": "1 - Mild Fatigue",
+    "2": "2 - Severe Fatigue"
+  },
+  "img_size": [
+    224,
+    224
+  ],
+  "selected_4class_model": "mobilenetv2_4class"
+}

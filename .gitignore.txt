@@ -1,0 +1,8 @@
+# Ignore raw image datasets and large archives
+dataset/
+*.zip
+
+# Ignore Python and Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
